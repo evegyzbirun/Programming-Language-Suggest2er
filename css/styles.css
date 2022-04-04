@@ -1,0 +1,15 @@
+.JavaScript,
+.Python,
+.Swift,
+.Wrong {
+  display: none;
+}
+
+body {
+  background-color: bisque;
+  text-align: center;
+}
+
+h1 {
+  color: darkgoldenrod
+}

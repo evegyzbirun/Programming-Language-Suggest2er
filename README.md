@@ -18,14 +18,14 @@
 
 1. download from github link
 2. unzip
-3. open with Visual Studio Code or some other editor that read html and css.
+3. open with Visual Studio Code or some other editor that reads Html, Css and JavaScript.
 4. open Language.html with live server
-5. Enter your answers.
+5. Pick your answers.
 6. Click submit to see the result.
 
 
 ## Known bugs
- Haven't finished "wrong answers" part.
+ non
 
 ## License
 
